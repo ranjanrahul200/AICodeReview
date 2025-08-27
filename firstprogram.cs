@@ -12,6 +12,7 @@ class Program
   public void testMethod()
   {
     var itemms = "test";
+    var ttt = "tprot";
     Console.ReadLine();
   }
   
