@@ -13,6 +13,7 @@ class Program
   {
     var itemms = "test";
     var ttt = "tprot";
+    var testt = "test";
     Console.ReadLine();
   }
   
