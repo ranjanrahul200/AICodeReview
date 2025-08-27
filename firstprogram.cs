@@ -8,4 +8,10 @@ class Program
     string TestVariable = "vvv";
     Console.WriteLine("{variable} is {Variable2}");
   }
+
+  public void testMethod()
+  {
+    Console.ReadLine();
+  }
+  
 }
