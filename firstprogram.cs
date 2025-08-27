@@ -4,6 +4,8 @@ class Program
   {
     string variable = "Rahul";
     string Variable2 = "Ranjan";
+    string testVariable = "varu";
+    string TestVariable = "vvv";
     Console.WriteLine("{variable} is {Variable2}");
   }
 }
