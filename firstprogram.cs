@@ -9,7 +9,7 @@ class Program
     Console.WriteLine("{variable} is {Variable2}");
   }
 
-  public void testMethod()
+  public void testkMethod()
   {
     var itemms = "test";
     var ttt = "tprot";
