@@ -11,6 +11,7 @@ class Program
 
   public void testMethod()
   {
+    var itemms = "test";
     Console.ReadLine();
   }
   
