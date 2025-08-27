@@ -9,11 +9,12 @@ class Program
     Console.WriteLine("{variable} is {Variable2}");
   }
 
-  public void testsMethod()
+  public void testMethod()
   {
     var itemms = "test";
     var ttt = "tprot";
     var testt = "test";
+    var pt = "tddd";
     Console.ReadLine();
   }
   
