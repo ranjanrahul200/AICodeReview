@@ -15,6 +15,12 @@ class Program
     var ttt = "tprot";
     var testt = "test";
     var pt = "tbbbbddd";
+    var first = "first";
+    Console.ReadLine();
+  }
+
+  public void secondMethod()
+  {
     Console.ReadLine();
   }
   
