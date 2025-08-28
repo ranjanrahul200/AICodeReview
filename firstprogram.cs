@@ -15,6 +15,7 @@ class Program
     var ttt = "tprot";
     var testt = "test";
     var pt = "tbbbbddd";
+    string tttt = "testded";
     Console.ReadLine();
   }
   
